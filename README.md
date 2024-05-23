@@ -1,6 +1,9 @@
 ### Hi there 👋, Welcome!
 ![](https://github.com/ZakariaSaafi/ZakariaSaafi/blob/main/resources/banner.png?raw=true)
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ZakariaSaafi/count.svg" />
+</p>
 👨‍💻 Java Developer | Code Enthusiast | ☕ Coffee Lover
 **Skills :**
 * Proficient in Java, Java EE, and Spring Framework
