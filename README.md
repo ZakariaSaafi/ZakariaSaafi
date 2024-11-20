@@ -14,8 +14,6 @@
 * Worked on Jira, Jira Confluence, and GitLab for project management and version control.
 * Proficient in SQL and database management
 
-- 🔭 I’m currently working on my academic project titled **SkyArt** 
-
 <div align="center"> 
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zakaria-saafi-aa27a4216/)
